@@ -1,3 +1,5 @@
+package AWTComponents;
+
 /*
 Java AWT Example
 To create simple AWT example, you need a frame. There are two ways to create a GUI using Frame in AWT.

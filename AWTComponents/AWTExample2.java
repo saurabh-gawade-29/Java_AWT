@@ -1,3 +1,4 @@
+package AWTComponents;
 // importing Java AWT class  
 
 import java.awt.*;

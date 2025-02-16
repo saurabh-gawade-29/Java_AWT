@@ -1,6 +1,6 @@
 // Interface
 
-class Flyable {
+interface Flyable {
 
     void fly(); // Abstract method
 
