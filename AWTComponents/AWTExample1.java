@@ -24,7 +24,7 @@ public class AWTExample1 extends Frame {
         // adding button into frame    
         add(b);
         // frame size 300 width and 300 height    
-        setSize(700, 700);
+        setSize(300, 300);
         // setting the title of Frame  
         setTitle("AWT APP BY SIMRAN");
         // no layout manager   
